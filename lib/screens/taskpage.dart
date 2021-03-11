@@ -112,7 +112,7 @@ class _TaskpageState extends State<Taskpage> {
                             style: TextStyle(
                               fontSize: 26.0,
                               fontWeight: FontWeight.bold,
-                              color: Color(0xFF211551),
+                              color: Colors.cyan,
                             ),
                           ),
                         )
